@@ -1,0 +1,8 @@
+# Binaire, journal et configuration locale
+*.exe
+*.log
+config.ini
+
+# Overlays personnels (souvent des packs sous licence) : jamais dans le depot
+overlays/*
+!overlays/.gitkeep
